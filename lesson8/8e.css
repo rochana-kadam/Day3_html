@@ -1,0 +1,30 @@
+input{
+    border: none;
+    background-color: rgb(240, 243, 243);
+    height: 40px;
+    width: 300px;
+    border-radius: 10px;
+    padding-left: 20px;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.request_btn{
+    background-color: black;
+    color: white;
+    width: 100px;
+    height: 35px;
+    border: none;
+    margin-right: 15px;
+    margin-top: 25px;
+}
+
+.schedule_btn{
+    background-color:  rgb(240, 243, 243);
+    color: black;
+    width: 150px;
+    height: 35px;
+    border: none;
+    margin-right: 15px;
+    margin-top: 25px;
+}
