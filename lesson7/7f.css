@@ -1,0 +1,23 @@
+p{
+    color: grey;
+}
+.t1{
+    margin-bottom: 1%;
+}
+input{
+    width: 55%;
+    height: 25px;
+    margin-bottom: 1%;
+}
+
+button{
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+    padding: 10px;
+    width: 55%;
+    border: none;
+    font-weight: bold;
+    /* font-size: 20px; */
+    height: 40px;
+}
